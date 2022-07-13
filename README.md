@@ -1,0 +1,1 @@
+# SCD30_ESP32_Component
